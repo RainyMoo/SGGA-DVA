@@ -89,7 +89,7 @@ class BaseCfgs(PATH):
             },
             'vqa_grid': {
                 'GRID_FEAT_SIZE': (64, 2048),
-                'BBOX_FEAT_SIZE': (100, 5),
+                'BBOX_FEAT_SIZE': (64, 5),
             },
         }
 
